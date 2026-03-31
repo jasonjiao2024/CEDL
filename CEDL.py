@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-CEDL: A Hippocampal-Inspired Architecture for Language Modeling
+CEDL: A Hippocampal-Inspired Architecture for Advancing LLMs
 ===============================================================
 
 Reference implementation for the CEDL architecture at ~100M parameter scale,
