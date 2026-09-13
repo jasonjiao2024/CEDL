@@ -1,4 +1,4 @@
-#CEDL
+CEDL
 
 Author: Dian Jiao
 
