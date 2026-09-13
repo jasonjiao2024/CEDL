@@ -1,4 +1,4 @@
-##CEDL
+CEDL
 
 Author: Dian Jiao
 
@@ -9,7 +9,7 @@ processing sweeps are coupled with a small recurrent probability readout that
 combines language predictions with token-successor evidence. Hippocampal pathways
 provide the functional inspiration for this design.
 
-##PERFORMANCE
+PERFORMANCE
 
 The submitted study evaluates CEDL at approximately 45.6 million parameters,
 using a 2,048-token context and three seeds on each of two corpora. Each model
@@ -32,7 +32,7 @@ training recipe; they do not establish the baselines' maximum recall capacity.
 Downstream results are mixed, and the biological correspondence remains a
 functional analogy.
 
-##ACCOMPANYING PAPER
+ACCOMPANYING PAPER
 
 This implementation accompanies the manuscript submitted to Neurocomputing:
 
